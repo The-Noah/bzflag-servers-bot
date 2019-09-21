@@ -1,0 +1,1 @@
+# bzflag-servers-bot
